@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/vijayshankar037/nodejs-ap/issues"
   },
-  "homepage": "https://github.com/vijayshankar037/nodejs-ap#readme"
+  "homepage": "https://github.com/vijayshankar037/nodejs-ap#readme",
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "@types/node": "^13.13.2",
+    "@types/nodemon": "^1.19.0",
+    "express": "^4.17.1",
+    "node": "^14.0.0",
+    "nodemon": "^2.0.3",
+    "ts-node": "^8.9.0",
+    "typescript": "^3.8.3"
+  }
 }
