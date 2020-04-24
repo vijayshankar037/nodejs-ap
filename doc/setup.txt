@@ -1,0 +1,6 @@
+$ npm init
+
+Install packgaes 
+$npm install typescript ts-node express node @types/express @types/node nodemon @types/nodemon
+
+$npm update => update dependencies versions
