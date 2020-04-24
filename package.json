@@ -1,16 +1,16 @@
 {
   "name": "nodejs-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "nodejs express and typescript app",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon --exec node src/index.ts"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vijayshankar037/nodejs-ap.git"
   },
-  "author": "",
+  "author": "vijayshankar037",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vijayshankar037/nodejs-ap/issues"
